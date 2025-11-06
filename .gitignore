@@ -1,0 +1,7 @@
+```text
+# Файлы PyCharm
+.idea/
+
+# Кэш Python
+__pycache__/
+*.pyc
