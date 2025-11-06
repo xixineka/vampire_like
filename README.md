@@ -39,7 +39,7 @@ pip install pygame
 Ваша папка должна выглядеть так:
 ```
 VampireLikeProject
-├── main.py            <-- основной код 
+├── main.py            
 ├── README.md
 ├── assets/
 │   ├── player.png
