@@ -74,3 +74,9 @@ WASD / Клавиши со стрелками: Перемещение игрок
 
 Escape (ESC): Пауза / Выход из паузы
 
+### 5. 🎮 Геймплей
+
+![photo_2025-11-06_22-49-38](https://github.com/user-attachments/assets/bcb4689c-db49-4446-9777-c3bb0fbedeba)
+![photo_2025-11-06_22-49-35](https://github.com/user-attachments/assets/cbbe52d7-0bfc-47cc-b31e-86f704289f7d)
+![photo_2025-11-06_22-49-31](https://github.com/user-attachments/assets/2b89992f-b989-481e-a01f-3cf87c3b5b23)
+![photo_2025-11-06_22-49-27](https://github.com/user-attachments/assets/af917f87-2c27-4d00-8dbf-4eb2ed4be758)
